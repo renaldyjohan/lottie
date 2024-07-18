@@ -1,0 +1,10 @@
+.detail_page {
+  display: grid;
+  grid-template-columns: 200px auto;
+}
+
+.main_content {
+  justify-self: center;
+  align-self: center;
+}
+

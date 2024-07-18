@@ -1,0 +1,20 @@
+.sidebar {
+  width: 200px;
+  border-right: 1px solid #ccc;
+  padding: 20px;
+  height: calc(100vh - 79px);
+  background-color:khaki;
+}
+
+.adjustment_section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  text-align: start;
+}
+
+.item_name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
